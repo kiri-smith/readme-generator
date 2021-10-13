@@ -66,9 +66,9 @@ inquirer
         }
 
         {
-            type: 'input',
-            message: 'What is the title of your project?',
-            name: 'title',
+            type: 'username',
+            message: 'What is your Github username?',
+            name: 'username',
         }
 
         {
