@@ -47,9 +47,9 @@ inquirer
         }
 
         {
-            type: 'input',
-            message: 'What is the title of your project?',
-            name: 'title',
+            type: 'installation',
+            message: 'What are the installation instructions for this project?',
+            name: 'installation',
         }
 
         {
