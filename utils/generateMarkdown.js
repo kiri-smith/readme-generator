@@ -20,13 +20,13 @@ function generateMarkdown(data) {
 
 ## Table of Contents
 * [${data.title}](#${data.title})
-* [Description](https://github.com/kiri-smith/readme-generator#description)
-* [Installation](https://github.com/kiri-smith/readme-generator#installation)
-* [Usage](https://github.com/kiri-smith/readme-generator#usage)
-* [License](https://github.com/kiri-smith/readme-generator#license)
-* [Contributing](https://github.com/kiri-smith/readme-generator#contributing)
-* [Tests](https://github.com/kiri-smith/readme-generator#tests)
-* [Questions](https://github.com/kiri-smith/readme-generator#questions)
+* [${data.title}](#${data.title})
+* [${data.title}](#${data.title})
+* [${data.title}](#${data.title})
+* [${data.title}](#${data.title})
+* [${data.title}](#${data.title})
+* [${data.title}](#${data.title})
+* [${data.title}](#${data.title})
 
 ## Description
 
@@ -34,16 +34,31 @@ ${data.description}
 
 ## Installation
 
+${data.installation}
+
 ## Usage
+
+${data.usage}
 
 ## License
 
+${data.license}
+
 ## Contributing
+
+${data.contributing}
 
 ## Tests
 
+${data.test}
+
 ## Questions
 
+Please reach out to me by email with any questions you may have:
+${data.email}
+
+You may also follow me on Github, to view other repositories:
+${data.username}
 
 `;
 }
