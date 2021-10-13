@@ -18,6 +18,10 @@ function generateMarkdown(data) {
 
 # ${data.title}
 
+## Description
+
+${data.description}
+
 ## Table of Contents
 * [Title](#${data.title})
 * [Description](#${data.description})
@@ -27,10 +31,6 @@ function generateMarkdown(data) {
 * [Contributing](#${data.contributing})
 * [Tests](#${data.test})
 * [Questions](#${data.email})
-
-## Description
-
-${data.description}
 
 ## Installation
 
