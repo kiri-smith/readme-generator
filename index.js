@@ -18,43 +18,43 @@ const questions = [
     },
 
     {
-        type: 'description',
+        type: 'input',
         message: 'Provide a description of the project:',
         name: 'description',
     },
 
     {
-        type: 'installation',
+        type: 'input',
         message: 'What are the installation instructions for this project?',
         name: 'installation',
     },
 
     {
-        type: 'usage',
+        type: 'input',
         message: 'Describe the usage information:',
         name: 'usage',
     },
 
     {
-        type: 'contribution',
+        type: 'input',
         message: 'What are the contribution guidelines for this project?',
         name: 'contribution',
     },
 
     {
-        type: 'test',
+        type: 'input',
         message: 'Describe the test instructions:',
         name: 'test',
     },
 
     {
-        type: 'username',
+        type: 'input',
         message: 'What is your Github username?',
         name: 'username',
     },
 
     {
-        type: 'email',
+        type: 'input',
         message: 'What is your email address?',
         name: 'email',
     },
