@@ -19,14 +19,14 @@ function generateMarkdown(data) {
 # ${data.title}
 
 ## Table of Contents
-* [${data.title}](#${data.title})
-* [${data.title}](#${data.title})
-* [${data.title}](#${data.title})
-* [${data.title}](#${data.title})
-* [${data.title}](#${data.title})
-* [${data.title}](#${data.title})
-* [${data.title}](#${data.title})
-* [${data.title}](#${data.title})
+* [Title](#${data.title})
+* [Description](#${data.description})
+* [Installation](#${data.installation})
+* [Usage](#${data.usage})
+* [License](#${data.license})
+* [Contributing](#${data.contributing})
+* [Tests](#${data.test})
+* [Questions](#${data.email})
 
 ## Description
 
