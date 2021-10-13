@@ -9,7 +9,7 @@
 //2. What do lines ... mean? Do I need them?
 //3. Where do I get license information to add options to the list?
 //4. How do I link specific components to sections on the file?
-//5. Links in the Table of Contents?
+//5. Links in the Table of Contents? -- verify structure
 //6. Did I do the .gitignore correctly?
 
 const inquirer = require('inquirer');
