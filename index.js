@@ -21,8 +21,6 @@
 //WHEN I click on the links in the Table of Contents THEN I am taken to the corresponding section of the README
 
 
-//contribution guidelines
-//test instructions
 //github username
 //email address
 //choose license from a list
@@ -62,9 +60,9 @@ inquirer
         }
 
         {
-            type: 'input',
-            message: 'What is the title of your project?',
-            name: 'title',
+            type: 'test',
+            message: 'Describe the test instructions:',
+            name: 'test',
         }
 
         {
