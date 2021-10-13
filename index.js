@@ -80,6 +80,16 @@ inquirer
             message: 'What is the title of your project?',
             name: 'title',
         }
+        {
+            type: 'list',
+            name: 'license',
+            message: 'Choose a license for your application.',
+            choices: ['', '', ''],
+        },
+    ])
+    .then(answers => {
+        console.info('Answer:', answers.license);
+    });
     ])
 
 
