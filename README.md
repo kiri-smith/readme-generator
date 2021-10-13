@@ -2,8 +2,8 @@
 
 ## Table of Contents
 * [Title](https://github.com/kiri-smith/readme-generator#readme-generator)
-* [Description]()
-* [Installation]()
+* [Description](https://github.com/kiri-smith/readme-generator#description)
+* [Installation](https://github.com/kiri-smith/readme-generator#installation)
 * [Usage]()
 * [License]()
 * [Contributing]()
