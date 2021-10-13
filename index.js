@@ -56,9 +56,9 @@ inquirer
         }
 
         {
-            type: 'input',
-            message: 'What is the title of your project?',
-            name: 'title',
+            type: 'contribution',
+            message: 'What are the contribution guidelines for this project?',
+            name: 'contribution',
         }
 
         {
