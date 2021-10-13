@@ -21,8 +21,6 @@
 //WHEN I click on the links in the Table of Contents THEN I am taken to the corresponding section of the README
 
 
-//github username
-//email address
 //choose license from a list
 
 const inquirer = require('inquirer');
@@ -72,9 +70,9 @@ inquirer
         }
 
         {
-            type: 'input',
-            message: 'What is the title of your project?',
-            name: 'title',
+            type: 'email',
+            message: 'What is your email address?',
+            name: 'email',
         }
 
         {
