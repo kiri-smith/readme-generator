@@ -1,27 +1,15 @@
-//There are sections in the README entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-
-//WHEN I enter the title of my project then this is displayed as the title of the README
-
-//WHEN I enter a description then this information is added to the section of the README entitled Description
-
-//WHEN I enter installation instructions then this information is added to the section of the README entitled Installation
-
-//WHEN I enter usage information then this information is added to the section of the README entitled Usage
-
-//WHEN I enter contribution guidelines then this information is added to the section of the README entitled Contributing
-
-//WHEN I enter test instructions then this information is added to the section of the README entitled Tests
+//There are sections in the README entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions (add prompt info to these sections)
 
 //WHEN I choose a license for my application from a list of options THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
 
-//WHEN I enter my GitHub username THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-
-//WHEN I enter my email address THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-
 //WHEN I click on the links in the Table of Contents THEN I am taken to the corresponding section of the README
 
-
-//choose license from a list
+//Questions for Arm: 
+//1. Am I writing this to THIS README.md?  Or do I need an option that allows them to choose the file destination for where to write it?
+//2. What do lines ... mean? Do I need them?
+//3. Where do I get license information to add options to the list?
+//4. How do I link specific components to sections on the file?
+//5. Links in the Table of Contents?
 
 const inquirer = require('inquirer');
 
