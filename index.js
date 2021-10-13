@@ -36,8 +36,56 @@ inquirer
     .prompt([
         {
             type: 'input',
-            message: '',
-            name: '',
+            message: 'What is the title of your project?',
+            name: 'title',
+        }
+
+        {
+            type: 'input',
+            message: 'What is the title of your project?',
+            name: 'title',
+        }
+
+        {
+            type: 'input',
+            message: 'What is the title of your project?',
+            name: 'title',
+        }
+
+        {
+            type: 'input',
+            message: 'What is the title of your project?',
+            name: 'title',
+        }
+
+        {
+            type: 'input',
+            message: 'What is the title of your project?',
+            name: 'title',
+        }
+
+        {
+            type: 'input',
+            message: 'What is the title of your project?',
+            name: 'title',
+        }
+
+        {
+            type: 'input',
+            message: 'What is the title of your project?',
+            name: 'title',
+        }
+
+        {
+            type: 'input',
+            message: 'What is the title of your project?',
+            name: 'title',
+        }
+
+        {
+            type: 'input',
+            message: 'What is the title of your project?',
+            name: 'title',
         }
     ])
 
