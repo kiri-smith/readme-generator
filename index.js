@@ -20,10 +20,7 @@
 
 //WHEN I click on the links in the Table of Contents THEN I am taken to the corresponding section of the README
 
-//title
-//description
-//installation instructions
-//usage information
+
 //contribution guidelines
 //test instructions
 //github username
@@ -53,9 +50,9 @@ inquirer
         }
 
         {
-            type: 'input',
-            message: 'What is the title of your project?',
-            name: 'title',
+            type: 'usage',
+            message: 'Describe the usage information:',
+            name: 'usage',
         }
 
         {
