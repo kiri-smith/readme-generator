@@ -41,9 +41,9 @@ inquirer
         }
 
         {
-            type: 'input',
-            message: 'What is the title of your project?',
-            name: 'title',
+            type: 'description',
+            message: 'Provide a description of the project:',
+            name: 'description',
         }
 
         {
