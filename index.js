@@ -31,55 +31,56 @@ inquirer
             type: 'input',
             message: 'What is the title of your project?',
             name: 'title',
-        }
+        },
 
         {
             type: 'description',
             message: 'Provide a description of the project:',
             name: 'description',
-        }
+        },
 
         {
             type: 'installation',
             message: 'What are the installation instructions for this project?',
             name: 'installation',
-        }
+        },
 
         {
             type: 'usage',
             message: 'Describe the usage information:',
             name: 'usage',
-        }
+        },
 
         {
             type: 'contribution',
             message: 'What are the contribution guidelines for this project?',
             name: 'contribution',
-        }
+        },
 
         {
             type: 'test',
             message: 'Describe the test instructions:',
             name: 'test',
-        }
+        },
 
         {
             type: 'username',
             message: 'What is your Github username?',
             name: 'username',
-        }
+        },
 
         {
             type: 'email',
             message: 'What is your email address?',
             name: 'email',
-        }
+        },
 
         {
             type: 'input',
             message: 'What is the title of your project?',
             name: 'title',
-        }
+        },
+
         {
             type: 'list',
             name: 'license',
@@ -90,6 +91,5 @@ inquirer
     .then(answers => {
         console.info('Answer:', answers.license);
     });
-    ])
 
 
