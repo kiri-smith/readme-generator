@@ -13,6 +13,8 @@ What is generated based on their input:
 
 ## Demo Video
 
+<href src="https://watch.screencastify.com/v/IknVsJXCJuW51eRttRcz">
+
 ## Built With
 
 * [Visual Studio Code](https://code.visualstudio.com/) - to create and modify the code on my local device
@@ -24,7 +26,7 @@ What is generated based on their input:
 
 ## Deployed Link
 
-* [ ](#)
+* [https://kiri-smith.github.io/readme-generator/](#)
 
 ## Author
 
