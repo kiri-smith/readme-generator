@@ -69,7 +69,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Choose a license for your application.',
-        choices: ['', '', ''],
+        choices: ['MIT License', 'GNU General Public License', 'Eclipse Public License'],
     },
 ];
 
