@@ -94,15 +94,4 @@ init();
 
 
 
-    //.then(answers => {
-    //console.info('Answer:', answers.license);
-/* .then((data) => {
-     console.log(data);
-     const filename = '${data.name.toLowerCase().split('').join('')}.json';
- }
-
- FileSystem.writeFile(README.md, JSON.stringify(data, null, '\t'), (err) =>
-     err ? console.log(err) : console.log('Success!'))
- );*/
-
 
