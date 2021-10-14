@@ -15,61 +15,64 @@ const questions = [
         type: 'input',
         message: 'What is the title of your project?',
         name: 'title',
+        validate: (value) => { if (value) { return true } else { return 'Must input a title to continue.' } }
     },
 
     {
         type: 'input',
         message: 'Provide a description of the project:',
         name: 'description',
+        validate: (value) => { if (value) { return true } else { return 'Must input a description to continue.' } }
     },
 
     {
         type: 'input',
         message: 'What are the installation instructions for this project?',
         name: 'installation',
+        validate: (value) => { if (value) { return true } else { return 'Must input installation instructions to continue.' } }
     },
 
     {
         type: 'input',
         message: 'Describe the usage information:',
         name: 'usage',
+        validate: (value) => { if (value) { return true } else { return 'Must input usage information to continue.' } }
     },
 
     {
         type: 'input',
         message: 'What are the contribution guidelines for this project?',
         name: 'contribution',
+        validate: (value) => { if (value) { return true } else { return 'Must input contribution guidelines to continue.' } }
     },
 
     {
         type: 'input',
         message: 'Describe the test instructions:',
         name: 'test',
+        validate: (value) => { if (value) { return true } else { return 'Must input test instructions to continue.' } }
     },
 
     {
         type: 'input',
         message: 'What is your Github username?',
         name: 'username',
+        validate: (value) => { if (value) { return true } else { return 'Must input a Github username to continue.' } }
     },
 
     {
         type: 'input',
         message: 'What is your email address?',
         name: 'email',
-    },
-
-    {
-        type: 'input',
-        message: 'What is the title of your project?',
-        name: 'title',
+        validate: (value) => { if (value) { return true } else { return 'Must input an email address to continue.' } }
     },
 
     {
         type: 'list',
         name: 'license',
         message: 'Choose a license for your application.',
-        choices: ['MIT License', 'GNU General Public License', 'Eclipse Public License'],
+        choices: ['MIT License', 'GNU General Public License', 'Eclipse Public License', 'none'],
+        validate: (value) => { if (value) { return true } else { return 'Must choose a value to continue.' } }
     },
 ];
 
