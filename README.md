@@ -5,8 +5,11 @@ To use this README generator, the user will clone this github repository to thei
 
 ## Snapshot
 
-<img src="snip.JPG" alt="Screenshot of Weather App">
-<img src="snip2.JPG" alt="Screenshot of Weather App">
+What the user enters:
+<img src="assets\snip.JPG" alt="Screenshot of User Input">
+
+What is generated based on their input:
+<img src="assets\snip2.JPG" alt="Screenshot of NewREADME.md based on user input">
 
 ## Demo Video
 
