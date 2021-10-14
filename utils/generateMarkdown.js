@@ -81,13 +81,13 @@ ${data.description}
 
 ## Table of Contents
 * [Title](#${data.title})
-* [Description](#${data.description})
-* [Installation](#${data.installation})
-* [Usage](#${data.usage})
-* [License](#${data.license})
-* [Contributing](#${data.contributing})
-* [Tests](#${data.test})
-* [Questions](#${data.email})
+* [Description](##Description)
+* [Installation](##Installation)
+* [Usage](##Usage)
+* [License](##License)
+* [Contributing](##Contributing)
+* [Tests](##Tests)
+* [Questions](##Questions)
 
 ## Installation
 
