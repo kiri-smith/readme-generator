@@ -13,7 +13,7 @@ What is generated based on their input:
 
 ## Demo Video
 
-<href src="https://watch.screencastify.com/v/IB4jzFsJgRwZX3bz8cAH">
+* [https://watch.screencastify.com/v/IB4jzFsJgRwZX3bz8cAH](#)
 
 ## Built With
 
