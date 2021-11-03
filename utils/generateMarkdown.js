@@ -111,11 +111,10 @@ ${data.test}
 
 ## Questions
 
-Please reach out to me by email with any questions you may have:
-${data.email}
+Please contact me through Email or Github:
+[Email](${data.email})
+[Github](https://github.com/${data.github}) 
 
-You may also follow me on Github, to view other repositories:
-${data.username}
 
 `;
 }
