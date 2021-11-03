@@ -25,17 +25,12 @@ What is generated based on their input:
 * [GitHub](github.com) - to host the repository and deploy with GitHub pages
 * [Shields.io](https://shields.io/) - to generate the badges, based on license type
 
-## Deployed Link
-
-* [https://kiri-smith.github.io/readme-generator/](#)
-
 ## Author
 
 * Kiri Smith 
 
-- [https://kiri-smith.github.io/](#)
-- [https://github.com/kiri-smith](https://github.com/)
-- [https://www.linkedin.com/in/kiri-lynne-smith/](https://www.linkedin.com/)
+- [Github](https://github.com/kiri-smith)
+- [LinkedIn](https://www.linkedin.com/in/kiri-lynne-smith/)
 
 ## License
 
